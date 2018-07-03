@@ -4,6 +4,7 @@
 #HCO3 = 0.03 * pCO2 * 10^(pH - 6.1)
 #Henderson-Hasselbalch equation
 #B.E. = 0.02786 * pCO2 * 10 (pH - 6.1) + 13.77 * pH - 124.58
+#V 1.1.
 
 # NOTE: These are not meant to be used within clinical trials or treatment
 # This script can not handle exceptions (e.g. full compensations) and does not handle errors correctly
